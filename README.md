@@ -4,7 +4,7 @@
 
 ## 📚 Education
 
-## Senior student at **Konkuk University (2021)**
+Senior student at **Konkuk University (2021)**
 
 Major : SMART ICT CONVERGENCE
 
