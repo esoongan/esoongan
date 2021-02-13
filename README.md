@@ -14,17 +14,11 @@ Graduation scheduled for February 2022
 
 📧 Email : seungjin9777@gmail.com
 
-🔗  github : 
+🔗  github : [esoongan - Overview](https://github.com/esoongan)
 
-[esoongan - Overview](https://github.com/esoongan)
+🔗  blog : [이숭간 공부기록](https://esoongan.tistory.com/)
 
-🔗  blog : 
-
-[이숭간 공부기록](https://esoongan.tistory.com/)
-
-🔗  Algorithm : 
-https://www.acmicpc.net/user/sjinlee97
-
+🔗  Algorithm : https://www.acmicpc.net/user/sjinlee97
 
 
 # 🛠 Skills
