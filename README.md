@@ -4,11 +4,11 @@
 
 ## 📚 Education
 
-Senior student at **Konkuk University (2021)**
+* Senior student at **Konkuk University (2021)**
 
-Major : SMART ICT CONVERGENCE
+* Major : SMART ICT CONVERGENCE
 
-Graduation scheduled for February 2022
+ (Graduation scheduled for February 2022)
 
 ## ☎️ Personal information
 
