@@ -1,8 +1,8 @@
-# Hi there 👋  I'm Esoongan
+# Esoongan
 
-## Hard at this moment✨ 
+### Hard at this moment✨ 
 
-# 📚 Education
+## 📚 Education
 
 ## Senior student at **Konkuk University (2021)**
 
@@ -10,7 +10,7 @@ Major : SMART ICT CONVERGENCE
 
 Graduation scheduled for February 2022
 
-# ☎️ Personal information
+## ☎️ Personal information
 
 📧 Email : seungjin9777@gmail.com
 
@@ -21,9 +21,9 @@ Graduation scheduled for February 2022
 🔗  Algorithm : https://www.acmicpc.net/user/sjinlee97
 
 
-# 🛠 Skills
+## 🛠 Skills
 
-## 💻 Technology
+### 💻 Technology
 
 ### Java (Back-end)⭐️⭐️⭐️⭐️
 
@@ -45,21 +45,21 @@ python is my 코딩테스트 language. I solved about N problems at 백준사이
 
 ---
 
-## 🗣 Languages
+### 🗣 Languages
 
 - TOEIC : 935점
 - OPIC : ongoing
 
 ---
 
-## 📃 Certificate
+### 📃 Certificate
 
 - 한국사능력검정시험 1급
 - 정보처리기사 ( ongoing)
 
 ---
 
-## 🏆 Award
+### 🏆 Award
 
 - 건국대학교 2020 KU LINC+ 우수캡스톤 디자인 경진대회 우수상
 
