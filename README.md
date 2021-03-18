@@ -25,19 +25,21 @@
 
 ### 💻 Technology
 
-### Java (Back-end)⭐️⭐️⭐️⭐️
-
-My "native" programming language, and I've studied with it for over 3 years from 1st grade in college. I've used it in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
-
-### Node + Express ⭐️⭐️⭐️
-
-[](https://github.com/esoongan/2020-cloud-webservice-201713069)
+### Java + Spring(Back-end)⭐️⭐️⭐️
 
 ongoing
 
+
+### Node + Express ⭐️⭐️
+
+[](https://github.com/esoongan/2020-cloud-webservice-201713069)
+
+
+
 ### Python ⭐️⭐️⭐️⭐️
 
-python is my 코딩테스트 language. I solved about N problems at 백준사이트, 삼성 SW expert academy, Programmers etc. Also I used it for my Capstone design(졸업프로젝트) _ Smart closet IOT project for Deep Learning programming.
+python is my 코딩테스트 language. https://www.acmicpc.net/user/sjinlee97
+Also I used it for my Capstone design(졸업프로젝트) _ Smart closet IOT project for Deep Learning programming.
 
 ### Kotlin ⭐️⭐️⭐️
 
