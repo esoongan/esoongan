@@ -57,7 +57,7 @@ Also I used it for my Capstone design(졸업프로젝트) _ Smart closet IOT pro
 ### 📃 Certificate
 
 - 한국사능력검정시험 1급
-- 정보처리기사 ( ongoing)
+- 정보처리기사
 
 ---
 
