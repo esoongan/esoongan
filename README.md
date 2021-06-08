@@ -16,34 +16,33 @@
 
 🔗  github : [esoongan - Overview](https://github.com/esoongan)
 
-🔗  blog : [이숭간 공부기록](https://esoongan.tistory.com/)
+🔗  blog : [](https://esoongan.tistory.com/)
 
-🔗  Algorithm : https://www.acmicpc.net/user/sjinlee97
+🔗  Algorithm solve : [알고리즘 풀이 해설](https://esoongan.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 
 ## 🛠 Skills
 
 ### 💻 Technology
 
-### Java + Spring(Back-end)⭐️⭐️⭐️
+### Java + Spring
+[](https://github.com/esoongan/share-market)
 
-ongoing
-
-
-### Node + Express ⭐️⭐️
+### Node + Express
 
 [](https://github.com/esoongan/2020-cloud-webservice-201713069)
 
+### Python 
+[](https://esoongan.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
-
-### Python ⭐️⭐️⭐️⭐️
-
-python is my 코딩테스트 language. https://www.acmicpc.net/user/sjinlee97
-Also I used it for my Capstone design(졸업프로젝트) _ Smart closet IOT project for Deep Learning programming.
-
-### Kotlin ⭐️⭐️⭐️
-
+### Kotlin 
 [esoongan/AvoidSchoolZone_mobileapp](https://github.com/esoongan/AvoidSchoolZone_mobileapp)
+
+---
+
+### 🏆 Award
+
+- 건국대학교 2020 KU LINC+ 우수캡스톤 디자인 경진대회 우수상
 
 ---
 
@@ -60,10 +59,6 @@ Also I used it for my Capstone design(졸업프로젝트) _ Smart closet IOT pro
 - 정보처리기사
 
 ---
-
-### 🏆 Award
-
-- 건국대학교 2020 KU LINC+ 우수캡스톤 디자인 경진대회 우수상
 
 # **👩🏻‍💻** Work experience
 
