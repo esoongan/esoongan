@@ -16,7 +16,7 @@
 
 🔗  github : [esoongan - Overview](https://github.com/esoongan)
 
-🔗  blog : [](https://esoongan.tistory.com/)
+🔗  blog : [] https://esoongan.tistory.com/
 
 🔗  Algorithm solve : [알고리즘 풀이 해설](https://esoongan.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
