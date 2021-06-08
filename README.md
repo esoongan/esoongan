@@ -16,7 +16,7 @@
 
 🔗  github : [esoongan - Overview](https://github.com/esoongan)
 
-🔗  blog : [] https://esoongan.tistory.com/
+🔗  blog : https://esoongan.tistory.com/
 
 🔗  Algorithm solve : [알고리즘 풀이 해설](https://esoongan.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
@@ -26,17 +26,17 @@
 ### 💻 Technology
 
 ### Java + Spring
-[](https://github.com/esoongan/share-market)
+[Share-Market : SpringBoot_API_server구축 (클릭!)](https://github.com/esoongan/share-market)
 
 ### Node + Express
 
-[](https://github.com/esoongan/2020-cloud-webservice-201713069)
+[HelpVC : Express_MVC_웹풀스택 (클릭!)](https://github.com/esoongan/2020-cloud-webservice-201713069)
 
 ### Python 
-[](https://esoongan.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+[Smart-Closet : python with deep Learning & speech recognition (클릭!)](https://github.com/esoongan/Smart-Closet_CNN-image-recognition_Speech-recognition)
 
 ### Kotlin 
-[esoongan/AvoidSchoolZone_mobileapp](https://github.com/esoongan/AvoidSchoolZone_mobileapp)
+[Avoid-School-Zone : android mobile app with 공공데이터포털 api ](https://github.com/esoongan/AvoidSchoolZone_mobileapp)
 
 ---
 
