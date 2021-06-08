@@ -36,7 +36,7 @@
 [Smart-Closet : python with deep Learning & speech recognition (클릭!)](https://github.com/esoongan/Smart-Closet_CNN-image-recognition_Speech-recognition)
 
 ### Kotlin 
-[Avoid-School-Zone : android mobile app with 공공데이터포털 api ](https://github.com/esoongan/AvoidSchoolZone_mobileapp)
+[Avoid-School-Zone : android mobile app with 공공데이터포털 api (클릭!)](https://github.com/esoongan/AvoidSchoolZone_mobileapp)
 
 ---
 
