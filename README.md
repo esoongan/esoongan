@@ -2,14 +2,6 @@
 
 ### Hard at this moment✨ 
 
-## 📚 Education
-
-* Senior student at **Konkuk University (2021)**
-
-* Major : SMART ICT CONVERGENCE
-
- (Graduation scheduled for February 2022)
-
 ## ☎️ Personal information
 
 📧 Email : seungjin9777@gmail.com
@@ -28,40 +20,8 @@
 ### Java + Spring
 [Share-Market : SpringBoot_API_server구축 (클릭!)](https://github.com/esoongan/share-market)
 
-### Node + Express
-
-[HelpVC : Express_MVC_웹풀스택 (클릭!)](https://github.com/esoongan/2020-cloud-webservice-201713069)
-
 ### Python 
 [Smart-Closet : python with deep Learning & speech recognition (클릭!)](https://github.com/esoongan/Smart-Closet_CNN-image-recognition_Speech-recognition)
 
 ### Kotlin 
 [Avoid-School-Zone : android mobile app with 공공데이터포털 api (클릭!)](https://github.com/esoongan/AvoidSchoolZone_mobileapp)
-
----
-
-### 🏆 Award
-
-- 건국대학교 2020 KU LINC+ 우수캡스톤 디자인 경진대회 우수상
-
----
-
-### 🗣 Languages
-
-- TOEIC : 935점
-- OPIC : ongoing
-
----
-
-### 📃 Certificate
-
-- 한국사능력검정시험 1급
-- 정보처리기사
-
----
-
-# **👩🏻‍💻** Work experience
-
-## Intern
-
-***Company**, Location – (Dates)*
