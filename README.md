@@ -1,6 +1,5 @@
-<a href="https://congchu.github.io/portfolio-1"><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
-<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
-![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
+<a href="https://www.notion.so/cf23c037f121418c9e538818b6e99370"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
+![https://komarev.com/ghpvc/?username=esoongan](https://komarev.com/ghpvc/?username=esoongan)
 
 
 ## 👋 &nbsp; 안녕하세요! 이승진입니다. ☺️
