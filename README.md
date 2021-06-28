@@ -14,12 +14,10 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=jpa)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![H2](https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2)&nbsp;
-
+![H2](https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2)&nbsp;\
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Python3](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;\
 ![AWS EC2](https://img.shields.io/badge/-EC2-05122A?style=flat&logo=amazon)&nbsp;
 ![AWS S3](https://img.shields.io/badge/-S3-05122A?style=flat&logo=amazon)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
