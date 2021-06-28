@@ -1,27 +1,36 @@
-# SeungJinLee
-
-### Hard at this moment✨ 
-
-## ☎️ Personal information
-
-📧 Email : seungjin9777@gmail.com
-
-🔗  github : [esoongan - Overview](https://github.com/esoongan)
-
-🔗  blog : https://esoongan.tistory.com/
-
-🔗  Algorithm solve : [알고리즘 풀이 해설](https://esoongan.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+<a href="https://congchu.github.io/portfolio-1"><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
+<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
+![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
-## 🛠 Skills
+## 👋 &nbsp; 안녕하세요! 이승진입니다. ☺️
 
-### 💻 Technology
+- 끊임없이 배우며 `겸손한 개발자`를 지향합니다.
+- `적극적인 커뮤니케이션`과 `빠른 실행력`을 추구합니다.
+- OOP, Refactoring, Clean Code등 `이해하기 쉬운 코드작성`에 관심이 많습니다.
+- 저에 대해 궁금하시다면, <a href="https://www.notion.so/cf23c037f121418c9e538818b6e99370">제 포트폴리오</a>를 방문해주세요.
+- 공부한것들은 <a href="https://esoongan.tistory.com/">제 블로그</a> 에 기록하고 있어요.
 
-### Java + Spring
-[Share-Market : SpringBoot_API_server구축 (클릭!)](https://github.com/esoongan/share-market)
+### 🛠 &nbsp;Technical Skills
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=jpa)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![H2](https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2)&nbsp;
 
-### Python 
-[Smart-Closet : python with deep Learning & speech recognition (클릭!)](https://github.com/esoongan/Smart-Closet_CNN-image-recognition_Speech-recognition)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Python3](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 
-### Kotlin 
-[Avoid-School-Zone : android mobile app with 공공데이터포털 api (클릭!)](https://github.com/esoongan/AvoidSchoolZone_mobileapp)
+![AWS EC2](https://img.shields.io/badge/-EC2-05122A?style=flat&logo=amazon)&nbsp;
+![AWS S3](https://img.shields.io/badge/-S3-05122A?style=flat&logo=amazon)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
+
+### 💻 &nbsp;GitHub Analytics
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=esoongan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/esoongan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esoongan&layout=compact&theme=algolia)](https://github.com/esoongan/github-readme-stats)
+
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:sjinlee9777@gmail.com"><img src="https://img.shields.io/badge/-sjinlee9777@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
