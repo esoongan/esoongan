@@ -27,7 +27,6 @@
 ### 💻 &nbsp;GitHub Analytics
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=esoongan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/esoongan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esoongan&layout=compact&theme=algolia)](https://github.com/esoongan/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:sjinlee9777@gmail.com"><img src="https://img.shields.io/badge/-sjinlee9777@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
